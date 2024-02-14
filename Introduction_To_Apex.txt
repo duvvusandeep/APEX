@@ -1,3 +1,19 @@
-//what is apex 
-//advantages 
-//
+//what is Oracle apex ? //
+//Oracle application express (APEX) is a low - code development platform that enables you to bulid scalable,secure enterprise apps, with world - class features that can be deployed anywhere.//  
+//Using APEX, developers can quickly develop and deploy compelling apps that solve real problems and provide immediate value.You won't need to be an expert in a vast array of technologies to deliver sophisticated solutions.Focus on solving the problem and let APEX take care of the rest.//
+
+//Why APEX ? //
+// Oracle apex is the worlds's most popular low-code platform for enterprise apps.//
+// Eliminate 98% of hand coding with Oracle apex.//
+// Did you know that if you have oracle database, you already have oracle APEX? APEX is a fully supported no - cost feature of oracle database - The most complete, intergrated, and secure data platform for any scale deployment.this solid foundation enables appsbuilt using APEX to natively access and interact with all of the capaabilities of oracle database.//
+
+//Data base foundations :
+//Introduction to the course:
+//Course goals :
+//develop an entity relationship diagram ERD to model data.//
+//use oracle sql developer data modeler to bulid ERDs.//
+//Map a physical model from an ERD.//
+//To create physical model from a logical model ERD.//
+//To write and execute, and Save SQL statements in oracle Application express.//
+
+
