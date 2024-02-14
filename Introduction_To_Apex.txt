@@ -7,6 +7,21 @@
 // Eliminate 98% of hand coding with Oracle apex.//
 // Did you know that if you have oracle database, you already have oracle APEX? APEX is a fully supported no - cost feature of oracle database - The most complete, intergrated, and secure data platform for any scale deployment.this solid foundation enables appsbuilt using APEX to natively access and interact with all of the capaabilities of oracle database.//
 
+//About APEX ?//
+//APEX is a low code web application development tool for the oracle database.//
+//Enables you to design, develop and deploy beautiful, responsive, database driven applications, either on-premises or in the cloud.//
+//it has built-in features such as-themes,navigation controllers,from handlers and flexible reports.//
+//Started with HTML DB (1.6) in 2004.//
+//Application express (2.2) in 2006.//
+//Application express (20.2) in 2020.//
+
+//prerequisites://
+//SQL & PLSQL - Mandatory.//
+//Java script, Ajax, Jquery (Basic knowledge).//
+//Oracle JET (Not mandotory).//
+//Knowledge on REST services - Mandatory.//
+
+
 //Data base foundations :
 //Introduction to the course:
 //Course goals :
